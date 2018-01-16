@@ -11,7 +11,6 @@ class awscli(
 
   class { '::awscli::install': }
   -> class { '::awscli::config': }
-  ~> class { '::awscli::service': }
   -> Class['::awscli']
 
 }
