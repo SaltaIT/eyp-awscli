@@ -4,9 +4,9 @@
   "author": "eyp",
   "summary": "awscli installation and configuration",
   "license": "Apache-2.0",
-  "source": "https://github.com/NTTCom-MS/eyp-awscli",
-  "project_page": "https://github.com/NTTCom-MS/eyp-awscli",
-  "issues_url": "https://github.com/NTTCom-MS/eyp-awscli/issues",
+  "source": "https://github.com/SaltaIT/eyp-awscli",
+  "project_page": "https://github.com/SaltaIT/eyp-awscli",
+  "issues_url": "https://github.com/SaltaIT/eyp-awscli/issues",
   "dependencies": [
     {"name":"puppetlabs/stdlib","version_requirement":">= 1.0.0 < 9.9.9"},
     {"name":"puppetlabs/concat","version_requirement":">= 1.2.3"},
